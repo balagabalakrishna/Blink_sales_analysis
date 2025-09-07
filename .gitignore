@@ -1,0 +1,24 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets and output folders
+data/
+notebooks/
+src/
+
+# Python virtual environment
+venv/
+
+# System and cache files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files
+*.log
+
+# IDE settings
+.vscode/
